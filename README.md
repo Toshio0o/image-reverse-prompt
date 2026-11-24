@@ -54,4 +54,4 @@ MIT License，见 [LICENSE](LICENSE)。
 
 ## 作者
 
-Toshi — X [@0xToshio_O](https://x.com/0xToshio_O) · GitHub [@Toshio0o](https://github.com/Toshio0o)
+Toshi — X [@toshi_o0o](https://x.com/toshi_o0o) · GitHub [@Toshio0o](https://github.com/Toshio0o)
