@@ -64,7 +64,3 @@
 
 - 新类型按主体、细节、环境三层展开写专属字段，复用通用层 8 项。
 - 先拿两张该类型的图跑通全流程，核验无误后再把新类型写进 `references/schema.md`。
-
-## 相关 skill
-
-- `lira-image-prompts` 做提示词优化，`ksrmj` 做 MJ 提示词系统，`ai-drama-reference-art` 做短剧参考图，`top_modeling_face` 做角色定脸。本 skill 负责图到提示词，与它们互补，反推出的提示词可交由它们继续加工。
