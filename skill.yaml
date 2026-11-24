@@ -1,0 +1,5 @@
+name: "image_reverse_prompt"
+title: "图像反推 · 通用分层拆解"
+description: "把任意图片反推成结构化元数据加中英提示词：通用层 8 项加人像/风景/产品/建筑/室内/食物/动物/艺术绘画/车辆/插画/海报类型层，先分类再拆解，逐项核验后合成提示词，本地图片可用脚本提取 6 色色卡；2026-11-24 自研分层拆解法。"
+category: "Work and knowledge"
+include_in_prompt: true
